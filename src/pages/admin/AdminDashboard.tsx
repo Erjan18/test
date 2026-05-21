@@ -67,7 +67,7 @@ export default function AdminDashboard() {
     <div className="space-y-8">
       <div>
         <h1 className="text-2xl font-bold text-white">Панель управления</h1>
-        <p className="text-slate-400 text-sm mt-1">Обзор системы ГрамТест</p>
+        <p className="text-slate-400 text-sm mt-1">Обзор системы Грамматика</p>
       </div>
 
       {/* Stat cards */}

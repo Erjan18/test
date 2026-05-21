@@ -75,7 +75,7 @@ export default function RegisterPage() {
           <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-2xl shadow-lg shadow-blue-200 dark:shadow-blue-900/50 mb-4">
             <BookOpen className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-2xl font-bold text-slate-800 dark:text-slate-100">ГрамТест</h1>
+          <h1 className="text-2xl font-bold text-slate-800 dark:text-slate-100">Грамматика</h1>
           <p className="text-slate-500 dark:text-slate-400 mt-1 text-sm">Тестирование грамматики русского языка</p>
         </div>
 

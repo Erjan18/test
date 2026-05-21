@@ -35,7 +35,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-lg flex items-center justify-center shadow-sm group-hover:shadow-blue-200 dark:group-hover:shadow-blue-900 transition-all duration-200">
                 <BookOpen className="w-4 h-4 text-white" />
               </div>
-              <span className="font-bold text-slate-800 dark:text-slate-100 text-lg tracking-tight">ГрамТест</span>
+              <span className="font-bold text-slate-800 dark:text-slate-100 text-lg tracking-tight">Грамматика</span>
             </Link>
 
             {/* Desktop nav */}

@@ -28,7 +28,7 @@ export default function AboutPage() {
         <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-2xl shadow-lg shadow-blue-200 dark:shadow-blue-900/50 mb-5">
           <BookOpen className="w-8 h-8 text-white" />
         </div>
-        <h1 className="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-3">О программе ГрамТест</h1>
+        <h1 className="text-3xl font-bold text-slate-800 dark:text-slate-100 mb-3">О программе Грамматика</h1>
         <p className="text-slate-500 dark:text-slate-400 text-base leading-relaxed max-w-xl mx-auto">
           Интерактивная платформа для проверки и улучшения знаний грамматики русского языка.
           Создана для учеников, студентов и всех, кто хочет говорить и писать грамотно.
@@ -92,7 +92,7 @@ export default function AboutPage() {
       {/* Footer note */}
       <div className="text-center py-6 border-t border-slate-200 dark:border-slate-800">
         <p className="text-sm text-slate-400 dark:text-slate-500">
-          ГрамТест — учитесь, проверяйте знания, совершенствуйтесь
+          Грамматика — учитесь, проверяйте знания, совершенствуйтесь
         </p>
         <p className="text-xs text-slate-300 dark:text-slate-600 mt-1">Версия 1.0 · 2025</p>
       </div>

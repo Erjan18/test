@@ -49,7 +49,7 @@ export default function HomePage() {
         <div className="relative">
           <div className="flex items-center gap-2 text-blue-100 text-sm mb-3">
             <Zap className="w-4 h-4" />
-            <span>Добро пожаловать в ГрамТест!</span>
+            <span>Добро пожаловать в Грамматика!</span>
           </div>
           <h1 className="text-3xl md:text-4xl font-bold mb-3">
             Привет, {profile?.username?.split(' ')[0]}!

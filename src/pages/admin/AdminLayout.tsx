@@ -37,7 +37,7 @@ export default function AdminLayout() {
         </div>
         {(!collapsed || mobile) && (
           <div>
-            <div className="text-white font-bold text-sm leading-none">ГрамТест</div>
+            <div className="text-white font-bold text-sm leading-none">Грамматика</div>
             <div className="text-blue-300 text-xs mt-0.5">Панель управления</div>
           </div>
         )}
